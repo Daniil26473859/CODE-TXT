@@ -10,9 +10,5 @@
 
 ![photo_2025-11-18_13-37-04](https://github.com/user-attachments/assets/c23df781-a688-472c-9bbc-fc88c9f338ac)
 Сохраняем информацию о файле: 
-file_path = f"temp_{user.id}_{file_name}"
-    try:
-        file = await context.bot.get_file(document.file_id)
-        await file.download_to_drive(file_path)
 
 
