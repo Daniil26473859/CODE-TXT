@@ -8,4 +8,4 @@
 
 Примеры использования: Для точного визуала вставлю скриншот интерфейса телеграм бота.
 
-<img width="184" height="100" alt="image" src="https://github.com/user-attachments/assets/7011d977-0104-4f72-bd81-2d20ce2a7efa" />
+![photo_2025-11-18_13-37-04](https://github.com/user-attachments/assets/c23df781-a688-472c-9bbc-fc88c9f338ac)
