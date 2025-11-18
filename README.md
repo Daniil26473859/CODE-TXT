@@ -11,5 +11,6 @@
 ![photo_2025-11-18_13-37-04](https://github.com/user-attachments/assets/c23df781-a688-472c-9bbc-fc88c9f338ac)
 
 Сохраняем информацию о файле: 
+
 <img width="670" height="128" alt="image" src="https://github.com/user-attachments/assets/50e6d8fa-34c7-4d93-9943-f46cf1295d37" />
 
