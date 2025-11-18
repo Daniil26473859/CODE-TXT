@@ -19,3 +19,6 @@ Telegram-боты являются отличной задумкой для ос
 
 РЕПОЗИТОРИЙ ПРОЕКТА: "CODE TXT"
 
+<img width="190" height="158" alt="image" src="https://github.com/user-attachments/assets/93527928-f2eb-48a1-8545-a698cccabb42" />
+
+
